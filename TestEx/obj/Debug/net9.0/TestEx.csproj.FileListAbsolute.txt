@@ -1,0 +1,14 @@
+C:\Users\ivane\RiderProjects\TestEx\TestEx\bin\Debug\net9.0\TestEx.exe
+C:\Users\ivane\RiderProjects\TestEx\TestEx\bin\Debug\net9.0\TestEx.deps.json
+C:\Users\ivane\RiderProjects\TestEx\TestEx\bin\Debug\net9.0\TestEx.runtimeconfig.json
+C:\Users\ivane\RiderProjects\TestEx\TestEx\bin\Debug\net9.0\TestEx.dll
+C:\Users\ivane\RiderProjects\TestEx\TestEx\bin\Debug\net9.0\TestEx.pdb
+C:\Users\ivane\RiderProjects\TestEx\TestEx\obj\Debug\net9.0\TestEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivane\RiderProjects\TestEx\TestEx\obj\Debug\net9.0\TestEx.AssemblyInfoInputs.cache
+C:\Users\ivane\RiderProjects\TestEx\TestEx\obj\Debug\net9.0\TestEx.AssemblyInfo.cs
+C:\Users\ivane\RiderProjects\TestEx\TestEx\obj\Debug\net9.0\TestEx.csproj.CoreCompileInputs.cache
+C:\Users\ivane\RiderProjects\TestEx\TestEx\obj\Debug\net9.0\TestEx.dll
+C:\Users\ivane\RiderProjects\TestEx\TestEx\obj\Debug\net9.0\refint\TestEx.dll
+C:\Users\ivane\RiderProjects\TestEx\TestEx\obj\Debug\net9.0\TestEx.pdb
+C:\Users\ivane\RiderProjects\TestEx\TestEx\obj\Debug\net9.0\TestEx.genruntimeconfig.cache
+C:\Users\ivane\RiderProjects\TestEx\TestEx\obj\Debug\net9.0\ref\TestEx.dll
